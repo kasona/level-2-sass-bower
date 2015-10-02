@@ -1,0 +1,24 @@
+/* Frameworks */
+@import "foundation";
+@import url(https://fonts.googleapis.com/css?family=Raleway:600);
+
+
+/* My Styles */
+body{
+  background-color: grey;
+  font-family: Raleway;
+}
+
+#block-a{
+  background-color: lighten(red, 20%);
+
+}
+#block-b{
+  background-color: lighten(blue, 20%);
+}
+#block-c{
+  background-color: lighten(yellow, 20%);
+}
+#block-d{
+  background-color: lighten(teal, 20%);
+}
